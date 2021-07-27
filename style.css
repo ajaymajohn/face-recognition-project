@@ -1,0 +1,18 @@
+body{
+    color: rgb(226, 27, 200);
+    background: rgba(60, 210, 30, 0.438);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    color: blueviolet;
+    background-color: dodgerblue;
+}
+#camera{
+    border: 2px dashed rgb(212, 199, 12);
+    width: 350px;
+    height: 300px;
+}
+.name_of_people,#result_person_name,#result_person_accuracy{
+    color: rgb(80, 127, 255);
+}
